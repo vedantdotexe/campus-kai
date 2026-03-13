@@ -6,7 +6,7 @@ CampusKai — A digital campus ecosystem for student councils, clubs, events, an
 
 CampusKai is a digital campus ecosystem designed to bring structure and connectivity to college life.
 
-The platform aims to provide a centralized system for:
+The platform aims to provide a centralized system for :
 
 - Student Council
 - Clubs and Communities
